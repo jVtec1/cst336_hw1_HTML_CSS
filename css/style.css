@@ -29,7 +29,7 @@
 span{
     font-size: 1.15em;
     font-weight:bold;
-    color: rgb(0, 0, 223);
+    color: rgb(14, 14, 136);
 }
 
 .image{
@@ -51,4 +51,14 @@ span{
 .contentRow{
     background-color: rgb(207, 246, 255);
     display: flex;
+}
+
+.footer_layout{
+    text-align: center;
+    justify-content:center;
+    display: flex;
+    padding-bottom: 5%;
+}
+.footer_row{
+    padding:1%;
 }
